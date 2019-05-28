@@ -1,0 +1,99 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 **************************MILESTONE 1******************************\
+View complete graph:\
+    MATCH(n) return n\
+ \
+1. Find nodes for classes and interfaces.\
+    Find nodes for all classes:\
+        MATCH(n) WHERE n.entity_type="class" RETURN n\
+    Find nodes for all interfaces:\
+        MATCH(n) WHERE n.entity_type="interface" RETURN n\
+    Find nodes of all classes and interfaces:\
+        MATCH(n) WHERE n.entity_type="interface" OR n.entity_type="class" RETURN n\
+ \
+2. Find all classes of a given package:\
+    MATCH (n) WHERE (n.file =~ '.*/producer-consumer/.*' OR n.file =~ 'producer-consumer/.*') AND n.entity_type="class" return n\
+ \
+3. Find methods both inherited and declared ones:\
+    MATCH(node:TypeDeclaration) where node.entity_type="class" AND node.simplename="Sword" with node MATCH(node)-[: member]->(n:MethodDeclaration) return n\
+ \
+4. Find transitive closure of types (find ALL distinct ancestors of a specific type).\
+PS: The ancestors should be grouped by the type you are trying to find the ancestors for.\
+    MATCH (child:MethodDeclaration)<-[]-(par) WITH par RETURN DISTINCT labels(par), count(*)\
+\
+5. Find If statements where the condition is boolean (true/false) value. Eg.: if(false) \{\}\
+\
+\
+6. Find If statements where the condition is not boolean value (an expression). \
+\
+\
+7. Find package of a given class.\
+    MATCH(node) where node.entity_type="class" AND node.simplename="Sword" return SUBSTRING(node.longname, 0, size(node.longname)-size(node.simplename)-1)\
+ \
+8. Find total cyclomatic complexity of a class as sum of cyclomatic complexity of each method that belongs to it, the methods include both inherited and derived.\
+    MATCH(node:TypeDeclaration) where node.entity_type="class" AND node.simplename="Sword" with node MATCH(node)-[: member]->(method:MethodDeclaration) return sum(toInt(method.Cyclomatic))\
+ \
+9. Find all methods with 10 or more statement.\
+    MATCH(n:MethodDeclaration) WHERE toInt(n.CountStmt)>=10 return n\
+ \
+10. Find all methods with 4 or more parameters.\
+    MATCH (n:MethodDeclaration)-[r:parameter]->() WITH n, COUNT(r) AS cr WHERE cr >= 4 RETURN n\
+ \
+11. Find all methods with 50 or more lines of code.\
+    MATCH(node:MethodDeclaration) where toInt(node.CountLineCode)>=50 return node\
+ \
+12. Calculate Tight Class Cohesion metric of a class.\
+	MATCH(node:TypeDeclaration)\
+	WHERE node.entity_type="class" AND node.simplename="Trampoline"\
+	WITH node Match(node)-[:member]->(n:MethodDeclaration)\
+	WITH collect(n) as all_methods, count(n) as num_methods\
+	UNWIND all_methods as method1\
+	UNWIND all_methods as method2\
+	WITH * WHERE id(method1)<id(method2)\
+	MATCH (method1)-[c]->(method2)\
+	WITH count(c) as direct_connections, num_methods\
+	RETURN (direct_connections*1.0)/(num_methods)*(num_methods-1)) AS Tight_class_Cohesion\
+\
+13. Find shortest path between type_declaration and CFG_EXIT_NODE using some apoc.\
+	MATCH(n:TypeDeclaration), (m:CFG_NODE)\
+	WITH collect(n) as nodes1, collect(m) as nodes2\
+	UNWIND nodes1 as n\
+	UNWIND nodes2 as m\
+	WITH * WHERE id(n)<id(m)\
+	MATCH path=shortestPath((n)-[*..5]-(m))\
+	RETURN path\
+	LIMIT 1\
+\
+	OR \
+\
+	MATCH(n:TypeDeclaration),(m:CFG_EXIT_NODE) RETURN shortestPath((n)-[*]->(m)) LIMIT 100\
+\
+\
+**************************MILESTONE 2******************************\
+\
+1. Find the number of Singleton Classes\
+	MATCH(constructor:MethodDeclaration)-[:CALLBY]->(func:MethodDeclaration)\
+	WITH collect(func) AS methods, constructor\
+	WHERE constructor.isConstructor="True" and constructor.modifiers contains "private"\
+	AND ALL(method in methods where method.modifiers contains "static")\
+	WITH collect(constructor) AS list_c\
+	MATCH(cl:TypeDeclaration)-[:member]->(me:MethodDeclaration) WHERE cl.entity_type="class" and me in list_c\
+	RETURN cl\
+\
+2. Find number of Builder Classes\
+	MATCH(class:TypeDeclaration)-[:member]->(constructor:MethodDeclaration)\
+	WHERE constructor.isConstructor="True" AND  constructor.modifiers CONTAINS "private"\
+	WITH *\
+	MATCH (constructor)-[:parameter]->(para:SingleVariableDeclaration)-[:type]-(typ)\
+	WITH *\
+	MATCH (class)-[:member]->(mem) WHERE typ.name = mem.simplename\
+	RETURN class , constructor, para, typ, mem\
+\
+3. Find all Facade classes\
+}
