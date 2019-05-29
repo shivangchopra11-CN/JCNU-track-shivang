@@ -1,0 +1,997 @@
+<DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>Lochtsebaan</summary>
+  <leg>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2082602</lat>
+     <lng>4.4072046</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2090433</lat>
+     <lng>4.4060858</lng>
+    </end_location>
+    <polyline>
+     <points>srpwH_x{YSh@]p@k@z@}@dA</points>
+    </polyline>
+    <duration>
+     <value>22</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Head &lt;b&gt;northwest&lt;/b&gt; on &lt;b&gt;Mertens en Torfsstraat&lt;/b&gt; toward &lt;b&gt;Sanderusstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>118</value>
+     <text>0.1 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2090433</lat>
+     <lng>4.4060858</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2097350</lat>
+     <lng>4.4080524</lng>
+    </end_location>
+    <polyline>
+     <points>owpwHaq{Yk@mBm@mCo@kC</points>
+    </polyline>
+    <duration>
+     <value>22</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Justitiestraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>157</value>
+     <text>0.2 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2097350</lat>
+     <lng>4.4080524</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2110452</lat>
+     <lng>4.4102740</lng>
+    </end_location>
+    <polyline>
+     <points>y{pwHi}{Yw@kCCKQi@_AaBkA_Bm@w@</points>
+    </polyline>
+    <duration>
+     <value>76</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Van Breestraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>215</value>
+     <text>0.2 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2110452</lat>
+     <lng>4.4102740</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2101491</lat>
+     <lng>4.4167882</lng>
+    </end_location>
+    <polyline>
+     <points>adqwHek|YDYDW\gEDs@@K?M@QDo@j@aId@eG@IDMBe@JiBHkADqA</points>
+    </polyline>
+    <duration>
+     <value>85</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Van Eycklei&lt;/b&gt;/&lt;b&gt;N184&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>465</value>
+     <text>0.5 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2101491</lat>
+     <lng>4.4167882</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2082888</lat>
+     <lng>4.4403299</lng>
+    </end_location>
+    <polyline>
+     <points>m~pwH}s}YEu@AWEgAAg@Aa@Ae@UqHOcFMiEC]EqAGwAEkACe@AWDqB?KJuDLaBFg@Jw@DUr@_FHo@l@qDL_AJu@PoAPkBd@oEBYRgCH{@@OP{CRiDZ{GL{BBYDiADwABc@L}BBSD{@Dw@Du@By@DmABe@Bc@FaADs@Bk@</points>
+    </polyline>
+    <duration>
+     <value>304</value>
+     <text>5 mins</text>
+    </duration>
+    <html_instructions>Keep &lt;b&gt;left&lt;/b&gt; to stay on &lt;b&gt;Van Eycklei&lt;/b&gt;/&lt;b&gt;N184&lt;/b&gt;&lt;div style="font-size:0.9em"&gt;Continue to follow N184&lt;/div&gt;</html_instructions>
+    <distance>
+     <value>1677</value>
+     <text>1.7 km</text>
+    </distance>
+    <maneuver>keep-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2082888</lat>
+     <lng>4.4403299</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2135894</lat>
+     <lng>4.4461912</lng>
+    </end_location>
+    <polyline>
+     <points>yrpwHagbZWI_@WSUOWi@oAACKUO]}@cB}@}AsAqBs@cAgAsAwAaBkAmA{A{AkA_Au@i@_@Ws@a@_Ak@]S</points>
+    </polyline>
+    <duration>
+     <value>136</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Noordersingel&lt;/b&gt;/&lt;b&gt;R10&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>725</value>
+     <text>0.7 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2135894</lat>
+     <lng>4.4461912</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2134976</lat>
+     <lng>4.4463606</lng>
+    </end_location>
+    <polyline>
+     <points>}sqwHukcZPa@</points>
+    </polyline>
+    <duration>
+     <value>10</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Stenenbrug&lt;/b&gt;/&lt;b&gt;N116&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>16</value>
+     <text>16 m</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2134976</lat>
+     <lng>4.4463606</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2187849</lat>
+     <lng>4.4525364</lng>
+    </end_location>
+    <polyline>
+     <points>ksqwHwlcZCACCECE?E?G@E@MEGAME]I_ASYGIAGCCCECEGCGCK?CCIEQCMCIEGCECCEAECC?M?q@CGAq@EU?IAYCYAI?a@Ae@@SASCOEMECAUIQKKIKGGAGAMBYFUF[H?@C?CCCCGICIEQEUEYIa@Io@CQGo@Gg@Ea@Ea@?CCa@Gm@?ICQAWE_@IgAEg@CMGg@Iw@EUG_@Kq@Mc@Qu@GYOk@</points>
+    </polyline>
+    <duration>
+     <value>198</value>
+     <text>3 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>862</value>
+     <text>0.9 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2187849</lat>
+     <lng>4.4525364</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2185928</lat>
+     <lng>4.4527359</lng>
+    </end_location>
+    <polyline>
+     <points>ktrwHksdZd@g@</points>
+    </polyline>
+    <duration>
+     <value>4</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Ringfietspad&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>25</value>
+     <text>25 m</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2185928</lat>
+     <lng>4.4527359</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2191258</lat>
+     <lng>4.4521265</lng>
+    </end_location>
+    <polyline>
+     <points>esrwHstdZ@?B?B?F?L@HBDD@BBD@D@BBP@N?L?T?J?BAN?FAJCHEFEFKDK@I@YDA?WBIEKIACECGM[g@</points>
+    </polyline>
+    <duration>
+     <value>37</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;right&lt;/b&gt; to stay on &lt;b&gt;Ringfietspad&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>187</value>
+     <text>0.2 km</text>
+    </distance>
+    <maneuver>turn-slight-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2191258</lat>
+     <lng>4.4521265</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2294575</lat>
+     <lng>4.4436361</lng>
+    </end_location>
+    <polyline>
+     <points>qvrwHypdZYFA@c@Da@FgANyEj@eC|@qBt@u@Di@FK?IAi@QK?I@SJsErDc@ZQVmAtB]`@_DfDSXKNmE`HsAhB_AxAE^sBbDoAjBw@h@WLWDA@?B@N?B?BAL</points>
+    </polyline>
+    <duration>
+     <value>234</value>
+     <text>4 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; to stay on &lt;b&gt;Ringfietspad&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>1348</value>
+     <text>1.3 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2294575</lat>
+     <lng>4.4436361</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2295905</lat>
+     <lng>4.4437463</lng>
+    </end_location>
+    <polyline>
+     <points>cwtwHw{bZGEQO</points>
+    </polyline>
+    <duration>
+     <value>28</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto the ramp to &lt;b&gt;Bisschoppenhoflaan&lt;/b&gt;/&lt;b&gt;N120&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>17</value>
+     <text>17 m</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2295905</lat>
+     <lng>4.4437463</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2325180</lat>
+     <lng>4.4574506</lng>
+    </end_location>
+    <polyline>
+     <points>}wtwHm|bZC[?CAQEWe@_Cu@gEG[qBmKSoAa@oCQmAi@uEsBwSiAuKCUWeCGi@KgAGw@</points>
+    </polyline>
+    <duration>
+     <value>169</value>
+     <text>3 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Bisschoppenhoflaan&lt;/b&gt;/&lt;b&gt;N120&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>1011</value>
+     <text>1.0 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2325180</lat>
+     <lng>4.4574506</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2362450</lat>
+     <lng>4.4902690</lng>
+    </end_location>
+    <polyline>
+     <points>gjuwHareZa@_@KgAQwAWsCIu@K{@I{@GaASuBm@cHg@yGAQMqAIgAEe@MoAo@_Iq@aHMcBi@wGGm@C_@u@kIu@aGAIG[AECSq@_FwA_KU{BG]O{BGgB?a@L_MDsHAuD?_E?AEyECuFE_FAqEDaBHkB@S</points>
+    </polyline>
+    <duration>
+     <value>420</value>
+     <text>7 mins</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;left&lt;/b&gt; to stay on &lt;b&gt;Bisschoppenhoflaan&lt;/b&gt;/&lt;b&gt;N120&lt;/b&gt;&lt;div style="font-size:0.9em"&gt;Continue to follow N120&lt;/div&gt;</html_instructions>
+    <distance>
+     <value>2353</value>
+     <text>2.4 km</text>
+    </distance>
+    <maneuver>turn-slight-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2362450</lat>
+     <lng>4.4902690</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2400057</lat>
+     <lng>4.4907632</lng>
+    </end_location>
+    <polyline>
+     <points>oavwHe_lZ[Sa@Wg@OOAe@BSDQDs@^s@Rk@Pw@Dq@?}@Gi@Sk@S_A]EEa@OAAKGg@Q</points>
+    </polyline>
+    <duration>
+     <value>85</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Deurnesteenweg&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>433</value>
+     <text>0.4 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2400057</lat>
+     <lng>4.4907632</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2443034</lat>
+     <lng>4.5010627</lng>
+    </end_location>
+    <polyline>
+     <points>ayvwHgblZm@WGEICCAGAIGiC{@m@[]YQU]}@ESO}@ASA]OwCMmA_@mDw@qGSy@c@}AkBcF{@iCUm@_BuGAUCOC_@Aa@C[G_@</points>
+    </polyline>
+    <duration>
+     <value>180</value>
+     <text>3 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Braamstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>920</value>
+     <text>0.9 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2443034</lat>
+     <lng>4.5010627</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2441932</lat>
+     <lng>4.5011697</lng>
+    </end_location>
+    <polyline>
+     <points>{swwHsbnZTU</points>
+    </polyline>
+    <duration>
+     <value>2</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Wijnegembaan&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>14</value>
+     <text>14 m</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2441932</lat>
+     <lng>4.5011697</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2445636</lat>
+     <lng>4.5030743</lng>
+    </end_location>
+    <polyline>
+     <points>eswwHicnZCMAGEYIs@G]PmBFm@BS?Q?KCIACSI[ISI</points>
+    </polyline>
+    <duration>
+     <value>28</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Alfons Verdijckstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>168</value>
+     <text>0.2 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2445636</lat>
+     <lng>4.5030743</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2445391</lat>
+     <lng>4.5032098</lng>
+    </end_location>
+    <polyline>
+     <points>ouwwHeonZ@W@A?A</points>
+    </polyline>
+    <duration>
+     <value>3</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>10</value>
+     <text>10 m</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2445391</lat>
+     <lng>4.5032098</lng>
+    </start_location>
+    <end_location>
+     <lat>51.2500493</lat>
+     <lng>4.5059915</lng>
+    </end_location>
+    <polyline>
+     <points>kuwwHapnZgCcAyDyAw@[mBu@}Ak@cDsAeCgAKEwB}@yAg@?G</points>
+    </polyline>
+    <duration>
+     <value>118</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>645</value>
+     <text>0.6 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.2500493</lat>
+     <lng>4.5059915</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3015480</lat>
+     <lng>4.5676065</lng>
+    </end_location>
+    <polyline>
+     <points>ywxwHmaoZ{By@iIcDOEO?GCGESKk@WgAk@UKe@QqD{ASIkCeAg@OkAe@qDyAy@]u@]MEaBq@uAg@]M]MgAe@CAcBq@{@_@aBm@MEaAc@iAe@_Bo@u@YKEsCmAmDsAmDwAmBw@QI{B{@kBy@y@]u@[kAm@gAs@eAw@k@g@g@e@a@e@e@g@kAyAy@iA?A[a@_ByBiA_B_@e@W]oCwDc@m@q@}@w@gAy@iAqAgBu@cAuAoBs@_AyAqB[c@?AmAcBa@k@c@o@SWm@y@{@iAiAyAQWu@cAoAiB}@oAQUu@eAY[MKKGGAGCEOCMEQEIQYCEk@w@eAsAAAuB}CsBkCqBqC_CaDe@q@kCsDKO}CeECEaEqFk@w@_B}BcAyAoGyImBkCeAwAoAgBQSQQiAeBoBoC[c@mIkLwAmB[a@}FcICEcDqEa@k@]e@ISSa@s@yAUm@GOu@cC?Aw@iCm@oBm@yBwAsEOe@kA}D{@sCACqByGMa@mA_EEM{AcF}AgFgAwDW{@mFiQiCwIY}@aBqF{@oC_A}C</points>
+    </polyline>
+    <duration>
+     <value>1363</value>
+     <text>23 mins</text>
+    </duration>
+    <html_instructions>Keep &lt;b&gt;right&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>7372</value>
+     <text>7.4 km</text>
+    </distance>
+    <maneuver>keep-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3015480</lat>
+     <lng>4.5676065</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3171575</lat>
+     <lng>4.6060371</lng>
+    </end_location>
+    <polyline>
+     <points>uybxHqb{ZEOk@gBcAeDGOM_@GOM[_AmDW}@cB}FsAmEiAqD_A{CQq@Sk@_DkKm@oBIYkAcEu@kC[_AiCiIUu@mA_EmAaEe@aBg@_BkAaEg@_Be@aBmA_ESq@y@mCQk@So@oDqLg@_Be@aBuB_HaBqFiCqIy@oCg@_BmAaE[aA_@mAe@aBaBqFQo@So@]gA[iAmAaEe@aBy@oCSq@q@}BYk@q@mB</points>
+    </polyline>
+    <duration>
+     <value>594</value>
+     <text>10 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Frans de Meyerstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>3186</value>
+     <text>3.2 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3171575</lat>
+     <lng>4.6060371</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3417107</lat>
+     <lng>4.6920299</lng>
+    </end_location>
+    <polyline>
+     <points>g{exHwrb[YqAc@cBcBoF{BsHqJw[mA_EaBqFkA_Ei@aBqDoL{@oC{@oCwB}Gg@_B{@oCGUcBcGEKe@_BiLk`@sBcHeCsIy@qCUg@wAoFQq@Qo@GUeAkDg@_BQi@cBwFoDsLiFcQa@qAsAmEaBqFqGcTuBaHkFcQiDcLYaAmAaEaBqF_BqF_@kA?AaAcDcAaDiBqGSq@{@oC}@yCc@wAw@oC?AsCiJ_BmFo@_CMi@]aBSm@EWKk@EWG]ESSeCQ{BA[UeDIgBEqB?qC@MB{BFcB@m@Ae@FYDc@R_CD_@PeB@Gn@yFn@sFl@eF@OBMCM?I?Cr@mG|@wHBQj@{E`AgI\wCBSBOHUBMZcCBU?SCM</points>
+    </polyline>
+    <duration>
+     <value>1275</value>
+     <text>21 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Lochtsebaan&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>6899</value>
+     <text>6.9 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3417107</lat>
+     <lng>4.6920299</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3363039</lat>
+     <lng>4.7198694</lng>
+    </end_location>
+    <polyline>
+     <points>utjxHels[ZyBrAgLPuAdBcOHy@`BmNl@kFp@cG^cDRaB\{Cl@eFVwBh@aFj@}Ep@kGTmBRmBHo@p@kG@M|@}HLcAHu@b@wDP{ANwAL_AHo@Hi@Be@Fq@HuANmAX_C</points>
+    </polyline>
+    <duration>
+     <value>355</value>
+     <text>6 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Vaartkant Links&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>2026</value>
+     <text>2.0 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3363039</lat>
+     <lng>4.7198694</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3276887</lat>
+     <lng>4.7841322</lng>
+    </end_location>
+    <polyline>
+     <points>{rixHezx[Fm@RiBHw@LcARgBPuAB]Jk@Fe@Nm@Lo@BUBOHg@LaAFi@P{AHy@Be@Fu@NyATmBj@oEHq@@GN{@RoARmAXeC\{CLeAB]De@l@sG?A|@gH|AeNv@kGjCaURsAr@mG\oCx@}Gr@gGPqBNgAJm@d@qDNmAlB}OFc@`AgI^wC`@iDPcCFk@JyADoAPcF@[DoDAeCAGMcFKkDMkDKiDU}G[wICgAOeEImE?cC?oABkCFqC@O^_HNuCPaANuBHgAVgDX{DL{A^_Fn@qIVeD@I|@sLRcCDo@@GFw@</points>
+    </polyline>
+    <duration>
+     <value>912</value>
+     <text>15 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Vaart&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>4621</value>
+     <text>4.6 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3276887</lat>
+     <lng>4.7841322</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3274711</lat>
+     <lng>4.7835877</lng>
+    </end_location>
+    <polyline>
+     <points>a}gxHyke\OCKpASxCD?@AVgDD@HBH@XFReC@UD?YvDD@</points>
+    </polyline>
+    <duration>
+     <value>58</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>315</value>
+     <text>0.3 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3274711</lat>
+     <lng>4.7835877</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3273115</lat>
+     <lng>4.7846242</lng>
+    </end_location>
+    <polyline>
+     <points>u{gxHmhe\^mE</points>
+    </polyline>
+    <duration>
+     <value>14</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Sharp &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Zuiderdijk&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>74</value>
+     <text>74 m</text>
+    </distance>
+    <maneuver>turn-sharp-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3273115</lat>
+     <lng>4.7846242</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3254815</lat>
+     <lng>4.7914244</lng>
+    </end_location>
+    <polyline>
+     <points>uzgxH{ne\CY?M?I@Il@oH`@gFZsD?Ab@wFDg@BMBIFEVK\Iz@W@?b@SHEFIBEBG?AHy@LkB</points>
+    </polyline>
+    <duration>
+     <value>98</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>560</value>
+     <text>0.6 km</text>
+    </distance>
+    <maneuver>turn-slight-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3254815</lat>
+     <lng>4.7914244</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3241600</lat>
+     <lng>4.8327300</lng>
+    </end_location>
+    <polyline>
+     <points>gogxHkyf\Bk@Ds@?E?ECMCKm@w@EGIKa@u@[m@CIEIAIAIHaADs@NkBLgB@QXsDDk@VqDNgBXqDLeBLaBb@{FDi@f@mGHaAVeD?Cf@wGHoAD_@LoB\uE@KVgDNoBBM^oEPeBVgDRqCHoADaAJyC@kABqA@s@?i@B{@BkA@_B?aCAWGyFm@gYMaFCcBA]?SBODMTw@BO@O?O?QDkBBcB?cAGaBKoAMsBMmCEk@AQCMUYOSEMCMWiCAK?O@IBUJe@FYDW@W@OAU?WUwEIqBI{AES</points>
+    </polyline>
+    <duration>
+     <value>512</value>
+     <text>9 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Vaartstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>2971</value>
+     <text>3.0 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3241600</lat>
+     <lng>4.8327300</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3246583</lat>
+     <lng>4.8323070</lng>
+    </end_location>
+    <polyline>
+     <points>_ggxHq{n\KRILMNKFMHQFGBIBA?</points>
+    </polyline>
+    <duration>
+     <value>41</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Schransdriesstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>64</value>
+     <text>64 m</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3246583</lat>
+     <lng>4.8323070</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3271299</lat>
+     <lng>4.8547289</lng>
+    </end_location>
+    <polyline>
+     <points>cjgxH}xn\UuDg@mIGw@i@mIIsA_@cGg@_Io@{JGeAEm@a@uGe@qHm@wJSiDi@qIc@yGc@cH?G?I@[B]DSD[H_@Hc@@I?KAYAQEa@Iy@EY</points>
+    </polyline>
+    <duration>
+     <value>269</value>
+     <text>4 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>1592</value>
+     <text>1.6 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3271299</lat>
+     <lng>4.8547289</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3297585</lat>
+     <lng>4.8762530</lng>
+    </end_location>
+    <polyline>
+     <points>qygxHaes\SSCCCGg@aACGCMAIAKAg@G}@SgDKaBuBo]YaFk@kKgAmRQqCKyACa@Ae@?[C_@q@_LYcFYuEAK?[?S@WNuA@O?SSmC</points>
+    </polyline>
+    <duration>
+     <value>329</value>
+     <text>5 mins</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;left&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>1540</value>
+     <text>1.5 km</text>
+    </distance>
+    <maneuver>turn-slight-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3297585</lat>
+     <lng>4.8762530</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3305427</lat>
+     <lng>4.8826192</lng>
+    </end_location>
+    <polyline>
+     <points>_jhxHqkw\OYQg@Gc@YyEIwAo@kLQeDIaBAqA?{A</points>
+    </polyline>
+    <duration>
+     <value>82</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Slight &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;Gorenstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>456</value>
+     <text>0.5 km</text>
+    </distance>
+    <maneuver>turn-slight-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3305427</lat>
+     <lng>4.8826192</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3273723</lat>
+     <lng>4.9131958</lng>
+    </end_location>
+    <polyline>
+     <points>{nhxHksx\?gBDoBBeA@]PkC^yGRiDFw@Dy@Do@XaFf@oI?CRiDLoBLqBLoBFy@LoBLqBFw@LoBZaFHuAHsATiDZ_FRiDPkCPmCZaFb@yGLqBD{@N_@@MRgDFmAE_@?CCQB_BL}GBsBBw@BsBJeFBqB@y@BeA?MDWD[Fi@</points>
+    </polyline>
+    <duration>
+     <value>373</value>
+     <text>6 mins</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Dijkstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>2161</value>
+     <text>2.2 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3273723</lat>
+     <lng>4.9131958</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3248413</lat>
+     <lng>4.9184788</lng>
+    </end_location>
+    <polyline>
+     <points>a{gxHor~\?W?I?[?I@IJKTIv@WNEJEBC@GFK^yCX}AXeAFUj@kB@Gf@sA`@cApAyCl@wA^i@</points>
+    </polyline>
+    <duration>
+     <value>74</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Stoktsestraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>486</value>
+     <text>0.5 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3248413</lat>
+     <lng>4.9184788</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3200032</lat>
+     <lng>4.9257234</lng>
+    </end_location>
+    <polyline>
+     <points>gkgxHos_]RiEHcAZ{D\i@DI\e@`AiAh@Yl@Ob@[`@g@x@sAXc@nBkCzCcDjDuD~AmB</points>
+    </polyline>
+    <duration>
+     <value>137</value>
+     <text>2 mins</text>
+    </duration>
+    <html_instructions>&lt;b&gt;Stoktsestraat&lt;/b&gt; turns slightly &lt;b&gt;left&lt;/b&gt; and becomes &lt;b&gt;Kon. Astridlaan&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>778</value>
+     <text>0.8 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3200032</lat>
+     <lng>4.9257234</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3224205</lat>
+     <lng>4.9434231</lng>
+    </end_location>
+    <polyline>
+     <points>_mfxHw`a]g@yGyBeZ_AaLOsBMkBEg@MiB]iEMmBAc@?K?O@YGo@G[G[?C@C?C?C?E?AAC?C?AAC?CAAAAC??W?IAE?IA]IoAKkAEu@{AgS?I?EBKGm@Ac@</points>
+    </polyline>
+    <duration>
+     <value>293</value>
+     <text>5 mins</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;left&lt;/b&gt; onto &lt;b&gt;De Merodelei&lt;/b&gt;&lt;div style="font-size:0.9em"&gt;Go through 1 roundabout&lt;/div&gt;</html_instructions>
+    <distance>
+     <value>1264</value>
+     <text>1.3 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3224205</lat>
+     <lng>4.9434231</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3222632</lat>
+     <lng>4.9459422</lng>
+    </end_location>
+    <polyline>
+     <points>c|fxHkod]TsIHcD</points>
+    </polyline>
+    <duration>
+     <value>33</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Continue onto &lt;b&gt;Gasthuisstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>176</value>
+     <text>0.2 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3222632</lat>
+     <lng>4.9459422</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3191983</lat>
+     <lng>4.9455193</lng>
+    </end_location>
+    <polyline>
+     <points>c{fxHc_e]vAh@v@\j@XLDVF\FNBNBTDTDVBR@H?J?H?REZEf@MTG|A[</points>
+    </polyline>
+    <duration>
+     <value>80</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>Turn &lt;b&gt;right&lt;/b&gt; onto &lt;b&gt;Korte Gasthuisstraat&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>350</value>
+     <text>0.4 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>BICYCLING</travel_mode>
+    <start_location>
+     <lat>51.3191983</lat>
+     <lng>4.9455193</lng>
+    </start_location>
+    <end_location>
+     <lat>51.3189877</lat>
+     <lng>4.9453701</lng>
+    </end_location>
+    <polyline>
+     <points>_hfxHo|d]h@\</points>
+    </polyline>
+    <duration>
+     <value>4</value>
+     <text>1 min</text>
+    </duration>
+    <html_instructions>&lt;b&gt;Korte Gasthuisstraat&lt;/b&gt; turns slightly &lt;b&gt;right&lt;/b&gt; and becomes &lt;b&gt;Rubensstraat&lt;/b&gt;&lt;div style="font-size:0.9em"&gt;Destination will be on the right&lt;/div&gt;</html_instructions>
+    <distance>
+     <value>26</value>
+     <text>26 m</text>
+    </distance>
+   </step>
+   <duration>
+    <value>9057</value>
+    <text>2 hours 31 mins</text>
+   </duration>
+   <distance>
+    <value>48283</value>
+    <text>48.3 km</text>
+   </distance>
+   <start_location>
+    <lat>51.2082602</lat>
+    <lng>4.4072046</lng>
+   </start_location>
+   <end_location>
+    <lat>51.3189877</lat>
+    <lng>4.9453701</lng>
+   </end_location>
+   <start_address>Mertens en Torfsstraat 46, 2018 Antwerpen, Belgium</start_address>
+   <end_address>Rubensstraat 10, 2300 Turnhout, Belgium</end_address>
+  </leg>
+  <copyrights>Map data ©2019 Google</copyrights>
+  <overview_polyline>
+   <points>srpwH_x{Yq@zAiB`CaEsOUu@kCaEm@w@DYb@_FH_BxAaS^iF?gCG_B[aLg@}OSaFD}BXwGlAuIpAwIlAeLp@oJ~A_\f@oKLuBBk@WIs@m@y@gB{A{CqCoE{BwCcDoDgD{CiEoC]SPa@GEYAaDq@[MM_@Qs@SScDQ_BG}AIaBs@yA\GAUi@_@aCk@aGg@yFc@_Dw@_Dn@g@d@JHRDdAAf@Qd@{@NYBUOk@}@aBVaHz@wFrBuBJu@Q]LwFnE_BlC}ErFaHjK_AxAE^cEnGoAv@YJ?d@YUC_@cBqJoDiS{@cH}Dm`@o@mGGw@a@_@]_Dw@aIqCg]iFgm@eF}_@WyCGiCRsVAuJOqTBsHJ_C}@k@w@Qy@HeAd@_Bd@iBD}@Gi@SkBq@i@WiBw@UGsCcAkAu@o@sAUqAa@wGwA_Mw@wCgDmJuBcIKgBK{@TUCMGa@QqA\aECUUMo@SBYaI_DgLqEcJsD?G{By@yIiDWC[QoDaByJ{DmJ{DqLuEyMmFq[oMaCiAmCkB{C{CcKeNuPqUmVy\oAaBYSOEI]a@{@iFkHeUa[e\gd@c@e@yDuF}M_RgMgQoBuD_IkWmJe[mWq{@oGkSiEeOoFmQsO{g@yYmaAi\ogAmAaEkAiDsEsO}S}r@cJaZoLc`@}Uux@qCyJgTms@{`@qrA_^glAeAqE_@uB}@cMOyE@_DJsHf@}ErB{Qn@uF?[pBsQnCmUTgA^yCCa@fF{b@jEw_@~Gkm@pH{p@z@qI~@mIh@eEd@cCp@oFd@oFlAwJpA_Jt@eHl@uGzCmWjGoh@|CgXpAuJvEa`@fAsL^_O]}OkAk]SmGIqIL}Jn@uL`@wDhAgObEqi@Fw@OC_@jFFAVgDD@RDXFReCFUSxDZgF?WlBuUl@oHJOt@UjBq@NY`@eGGe@_BaCg@kAlAeQtHacAjCa\\wJHkFBeIgAgk@Aq@H]XgA@_@HeHo@sLG}@Yg@Ua@[wCB{@ZoBUuGSmEESKRW\YPe@NqF}{@eFiy@a@qIXmBHsAWgCcAaBKk@mH{oAsBs^[qGRqCSmCOYYkAeBc[KsD?cE\_JhC{c@~Fk_A~A{VT{ATuD@mBCUXiPTeOBsAJs@FgB@S`@UvAg@HSx@wFnAoEhEiK^i@\mGZ{D\i@b@o@`AiAh@YpAk@dFkHfIyI~AmBg@yGyDgg@]_F_AiM?yAU}BGW]kFaBmUCy@RwJHcDvAh@bBv@rAXrARr@@lBa@|A[h@\</points>
+  </overview_polyline>
+  <warning>Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling.</warning>
+  <bounds>
+   <southwest>
+    <lat>51.2082602</lat>
+    <lng>4.4060858</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3443360</lat>
+    <lng>4.9459422</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>street_address</type>
+  <place_id>EjJNZXJ0ZW5zIGVuIFRvcmZzc3RyYWF0IDQ2LCAyMDE4IEFudHdlcnBlbiwgQmVsZ2l1bSIaEhgKFAoSCWvjAEPk9sNHEQDR4Tc-v0lVEC4</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>street_address</type>
+  <place_id>ChIJb8rdINOzxkcR1kDYnBeuNz8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>
